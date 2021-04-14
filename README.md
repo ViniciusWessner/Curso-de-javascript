@@ -3,6 +3,5 @@
 link https://www.cursoemvideo.com/
 <ul>
   
-<li>[Tipos primitivos] (https://github.com/ViniciusWessner/Curso-de-javascript/blob/main/Aula05/tipos%20primitivos.PNG) </li>
-<li><a href="https://github.com/ViniciusWessner/Curso-de-javascript/blob/main/Aula05/tipos%20primitivos.PNG">Google</a></li>
+<li><a href="https://github.com/ViniciusWessner/Curso-de-javascript/blob/main/Aula05/tipos%20primitivos.PNG">Tipos Primitivos</a></li>
 </ul>
