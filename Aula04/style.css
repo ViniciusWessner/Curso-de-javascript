@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(130, 158, 101);
+}
+
+h1{
+    font-size: large;
+    text-align: center;
+    font-size: 25pt;
+    color: white;
+}
+
+p{
+    font-size: large;
+    text-align: center;
+    color: white;
+}
+
+.script alert {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
